@@ -1,4 +1,5 @@
-![tumblr_65f40d49574352927029fb2aafb7f516_ea2d0406_400](https://user-images.githubusercontent.com/129024139/232181242-1921851c-2815-4d7c-b4b7-7a6a665404a5.png)
+![programando](https://user-images.githubusercontent.com/129024139/232181287-1a169bcd-610d-43d2-933f-9bc72346ba23.gif)
+
 
 <h1 align="center">Hi 👋, I'm Nicolás</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
